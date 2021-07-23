@@ -1,2 +1,0 @@
-# lungteng_crawler
-crawler
